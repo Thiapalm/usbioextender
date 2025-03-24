@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "0_capacitors")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/0_capacitors.kicad_sym")(options "")(descr ""))
+  (lib (name "0_resistors")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/0_resistors.kicad_sym")(options "")(descr ""))
+  (lib (name "0_leds")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/0_leds.kicad_sym")(options "")(descr ""))
+  (lib (name "0_diodes")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/0_diodes.kicad_sym")(options "")(descr ""))
+  (lib (name "0_chips")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/0_chips.kicad_sym")(options "")(descr ""))
+  (lib (name "0_ferrites")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/0_ferrites.kicad_sym")(options "")(descr ""))
+  (lib (name "0_connectors")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/0_connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "0_helpers")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/0_helpers.kicad_sym")(options "")(descr ""))
+)
