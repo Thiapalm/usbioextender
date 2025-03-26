@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 49,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -116,8 +116,8 @@
   "project": {
     "files": [
       {
-        "name": "IOExtender.kicad_pcb",
-        "open": true,
+        "name": "IOExtender.kicad_sch",
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
@@ -128,8 +128,8 @@
         }
       },
       {
-        "name": "IOExtender.kicad_sch",
-        "open": true,
+        "name": "IOExtender.kicad_pcb",
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
