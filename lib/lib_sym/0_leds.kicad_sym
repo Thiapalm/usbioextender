@@ -82,6 +82,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "LTST-C191KSKT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "LED Yellow, 0603"
 			(at 0 0 0)
 			(effects
@@ -274,6 +283,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "SM0603SRC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "LED Red, 0603, 1.85V, 20mA"
 			(at 0 0 0)
 			(effects
@@ -348,6 +366,15 @@
 			)
 		)
 		(property "CompanyPN" "T-LED-002"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SML-LX0603GW-TR"
 			(at 0 0 0)
 			(effects
 				(font

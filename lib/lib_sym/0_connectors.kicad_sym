@@ -61,6 +61,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "22-28-8083"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "1x8, pin header, right angle"
 			(at 0 0 0)
 			(effects
@@ -465,6 +474,15 @@
 			)
 		)
 		(property "CompanyPN" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "61301311121"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1090,6 +1108,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "G800LR305018EU"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "Headers & Wire Housings Pin Header 2.54mm Pitch STR DIP,1x3Pin,G/F,LCP,8.08mm*2.54mm*3.18mm,Color-Black"
 			(at 0 0 0)
 			(effects
@@ -1286,6 +1313,15 @@
 			)
 		)
 		(property "CompanyPN" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "USB4215-03-A"
 			(at 0 0 0)
 			(effects
 				(font

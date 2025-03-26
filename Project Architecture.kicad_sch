@@ -77,14 +77,14 @@
 		)
 		(uuid "978bb74e-ca07-4b21-b2dc-19b812f717e9")
 	)
-	(text_box "Description"
+	(text_box "Complete board"
 		(exclude_from_sim no)
 		(at 176.53 54.61 0)
 		(size 17.145 5.08)
 		(margins 1.4287 1.4287 1.4287 1.4287)
 		(stroke
 			(width -0.0001)
-			(type default)
+			(type solid)
 		)
 		(fill
 			(type none)

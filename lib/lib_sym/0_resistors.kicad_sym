@@ -91,6 +91,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "CRCW060333R0FKEA"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RESISTOR, 33R, 1%, 1/10W, 0603"
 			(at 0 0 0)
 			(effects
@@ -298,6 +307,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "CRCW06035K10FKEC"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "RESISTOR, 5.1K, 1%, 1/3W 0603"
 			(at 0 0 0)
 			(effects
@@ -363,6 +381,15 @@
 			)
 		)
 		(property "Sim.Params" "r=330"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "ERJ-3GEYJ331V"
 			(at 0 0 0)
 			(effects
 				(font

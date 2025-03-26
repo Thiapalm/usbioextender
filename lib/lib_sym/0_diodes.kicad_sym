@@ -55,6 +55,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "SP0502BAHT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "usb esd protection suppression transient"
 			(at 0 0 0)
 			(effects
@@ -302,6 +311,15 @@
 			)
 		)
 		(property "CompanyPN" "T-DIO-001"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CDSOT23-T05LC-Q"
 			(at 0 0 0)
 			(effects
 				(font
