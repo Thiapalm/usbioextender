@@ -1,5 +1,10 @@
 # USB to IO Extender Board
-  
+
+<p align=center>
+ <a href="https://github.com/Thiapalm/usbioextender"><img src="https://img.shields.io/badge/RELEASED-V2-green"></a>
+ <a href="https://ohwr.org/project/cernohl/-/wikis/Documents/CERN-OHL-version-2"><img src="https://img.shields.io/badge/License-CERN%20OHL%20P-orange"></a>
+</p>
+
 This is a hobby development board conceived for usage in my home lab. The board can be used as USB to serial adapter with no need to install any driver on the PC. It can be used as USB to I2C adapter and also USB to GPIO port extender. For the two later options, some code development may be necessary.  
 
 The board has 4 extra GPIO ports that can be used as LED indicators (if the back jumpers are soldered). The board power is provided by the USB connector, and it can be used in 5V or 3V3 modes for serial, I2C and GPIO pins. 
@@ -26,9 +31,11 @@ Board features commonly used in Embedded Systems:
 - Board power selector (5V / 3V3)
 - The GPIO pins are breadboard compatible
 
-![Front](.Images/IOExtender_front.png)
+## Board View 
 
-![Back](.Images/IOExtender_back.png)
+![Front](Images/IOExtender_front.png)
+
+![Back](Images/IOExtender_back.png)
   
 
 ## Version Revision
@@ -50,4 +57,4 @@ There is no specific firmware for this board, but i have a driver developed in R
 
 ## Contribution
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the CERN-OHL-P license, shall be licensed as above, without any additional terms or conditions.
