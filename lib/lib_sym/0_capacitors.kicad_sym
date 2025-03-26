@@ -79,6 +79,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "C0603C474K3RACTU"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "capacitor, 0.47uF, 0603, X7R, 25V"
 			(at 0 0 0)
 			(effects
@@ -235,6 +244,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "0805B104K500CT"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "capacitor, 0.47uF, 0603, X7R, 25V"
 			(at 0 0 0)
 			(effects
@@ -317,6 +335,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "C1608X5R1C106M080AB"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "capacitor, 0.47uF, 0603, X7R, 25V"
 			(at 0 0 0)
 			(effects
@@ -391,6 +418,15 @@
 			)
 		)
 		(property "CompanyPN" "M-CAP-025"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM188R61E475KE11D"
 			(at 0 0 0)
 			(effects
 				(font

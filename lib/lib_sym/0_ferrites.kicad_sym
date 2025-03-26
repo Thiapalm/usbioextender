@@ -58,6 +58,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "MPZ2012S331AT000"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "ferrite, 220R, 2.5A, 0805"
 			(at 0 0 0)
 			(effects

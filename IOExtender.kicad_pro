@@ -627,10 +627,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "amulet_controller.net",
-      "plot": "",
+      "plot": "Manufacturing/Fabrication/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "STEP/amulet_controller.step",
+      "step": "STEP/IOExtender.step",
       "svg": "",
       "vrml": ""
     },
@@ -699,6 +699,36 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part Number",
+          "name": "Manufacturer Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Params",
+          "name": "Sim.Params",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "CompanyPN",
+          "name": "CompanyPN",
           "show": false
         }
       ],
@@ -785,9 +815,10 @@
     "DESIGNER": "Thiago Palmieri",
     "DOC_TYPE": "Fabrication",
     "PROJECT_NAME": "USB IO Extender",
-    "RELEASE_DATE": "Release Date",
+    "RELEASE_DATE": "2025-03-25",
+    "RESULT": "RELEASED",
     "REVIEWER": "Thiago Palmieri",
     "REVISION": "2",
-    "VARIANT": "Draft"
+    "VARIANT": "No variant"
   }
 }

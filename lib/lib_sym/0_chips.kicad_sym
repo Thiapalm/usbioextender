@@ -58,6 +58,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "MCP2221AxSL"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "USB I2C UART Converter Bridge"
 			(at 0 0 0)
 			(effects
@@ -389,6 +398,15 @@
 			)
 		)
 		(property "Description" "16-bit I/O expander, I2C, interrupts, w pull-ups, GPA/B7 output only (https://microchip.my.site.com/s/article/GPA7---GPB7-Cannot-Be-Used-as-Inputs-In-MCP23017),  SOIC-28"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MCP23017_SO"
 			(at 0 0 0)
 			(effects
 				(font
@@ -994,6 +1012,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "NCP1117IST33T3G"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "LDO Voltage Regulators LDO Regulator, 1 A, Fixed, Positive Vout: 3.3 V"
 			(at 0 0 0)
 			(effects
@@ -1122,6 +1149,15 @@
 			)
 		)
 		(property "CompanyPN" "M-ICC-025"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MCP23017_SS"
 			(at 0 0 0)
 			(effects
 				(font
