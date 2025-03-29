@@ -14,6 +14,9 @@ The board has 4 extra GPIO ports that can be used as LED indicators (if the back
 
 This is an open source hardware project licensed under CERN-OHL-P. More details on [LICENSE.md](./LICENSE.md).  
 
+This project is certified by OSHW: [Certification BR000019](https://certification.oshwa.org/br000019.html)
+
+![BR000019](Images/certification-mark-BR000019-wide.png)
 
 ## Project
 
