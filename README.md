@@ -56,7 +56,9 @@ V2 - Current Version
 
 ## Firmware
 
-There is no specific firmware for this board, but i have a driver developed in RUST for MCP23017, see it in [crates.io](https://crates.io/crates/mcp23017-tp)
+There is no specific firmware for this board, but i have a driver developed in RUST for MCP23017 for use in embedded environments, see it in [crates.io](https://crates.io/crates/mcp23017-tp).
+
+Also, you can use the IOExtender Control Center which is a software that can be used to control the I²C communication via Windows/Linux/Mac machines [iocc software](https://github.com/Thiapalm/iocc).
 
 ## Contribution
 
